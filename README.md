@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-全栈开发者
+写了很多年代码，错过了 n 次机会。
