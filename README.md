@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=OnePieceLv&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-当你停止创造，你的才能就不再重要，你所拥有的只剩下你的品味。而品味会裹挟你，让你排斥他人、变得狭隘。所以，创造。-- _why
+做一件事最好是十年前, 其次是现在
