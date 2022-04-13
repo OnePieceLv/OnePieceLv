@@ -1,6 +1,5 @@
 
 ### Hi there 👋
-- 做一件事最好是十年前, 其次是现在
 
 <!--
 **OnePieceLv/OnePieceLv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
